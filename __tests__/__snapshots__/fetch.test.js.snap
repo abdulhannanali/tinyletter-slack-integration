@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getArchiveUrl 1`] = `"https://tinyletter.com/cassidoo/archive"`;
+
+exports[`getArchiveUrl 2`] = `"https://tinyletter.com/thedaggetts/archive"`;

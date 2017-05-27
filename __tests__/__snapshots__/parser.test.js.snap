@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`parse the list of messages in archive 1`] = `
+Array [
+  Object {
+    "date": "April 24, 2017",
+    "id": "message-3429177",
+    "link": "http://tinyletter.com/thedaggetts/letters/upcoming-travel",
+    "snippet": "Just wanted to let y'all know that Katie, Adileen and I will be traveling this week. We're spending Monday-Thursday at a small retreat site south of Lima with other US American Christians who live and...",
+    "title": "Upcoming Travel",
+  },
+  Object {
+    "date": "April 11, 2017",
+    "id": "message-3384197",
+    "link": "http://tinyletter.com/thedaggetts/letters/holy-week-festivities-and-updates",
+    "snippet": "Hope you're all doing well with Spring in bloom. A few updates from Arequipa and some things to pray about. As always, we're thankful for your love and support and remembering us in your prayers. If y...",
+    "title": "Holy Week Festivities and Updates",
+  },
+  Object {
+    "date": "January 31, 2017",
+    "id": "message-3168161",
+    "link": "http://tinyletter.com/thedaggetts/letters/adileen-turns-1-and-it-was-a-party",
+    "snippet": "Adileen turned 1 on January 21 but we waited until the 28th to have a party so our teammates Jake and Jaclyn Blair could be there. The past year has flown by! We cannot believe that she is already 1!",
+    "title": "Adileen Turns 1 (and it was a party!)",
+  },
+  Object {
+    "date": "January 03, 2017",
+    "id": "message-3095793",
+    "link": "http://tinyletter.com/thedaggetts/letters/happy-new-year-1",
+    "snippet": "It was so good to see so many of you and introduce you personally to Adileen over the last couple months. Thank you for hosting us, for sharing your table with us, and for making us feel loved. We had...",
+    "title": "Happy New Year!",
+  },
+  Object {
+    "date": "September 16, 2016",
+    "id": "message-2769813",
+    "link": "http://tinyletter.com/thedaggetts/letters/2-years-in-arequipa-and-a-new-cuda-site-designed-by-yours-truly",
+    "snippet": "Hope you're doing well. Katie and I can't believe it's already mid-September. We leave Arequipa two weeks from today, and will at the same time also be celebrating 2 years in Arequipa! Crazy that we s...",
+    "title": "2 years in Arequipa and a new CUDA site (designed by yours truly)",
+  },
+  Object {
+    "date": "July 26, 2016",
+    "id": "message-2638405",
+    "link": "http://tinyletter.com/thedaggetts/letters/pictures-videos-and-community-growing",
+    "snippet": "We are all doing well here in Arequipa. Adileen just turned 6 months old, Katie (and I!) enjoyed a visit from her parents, and I've climbed up to 19,872 feet:",
+    "title": "Pictures, Videos, and Community Growing",
+  },
+  Object {
+    "date": "June 01, 2016",
+    "id": "message-2507077",
+    "link": "http://tinyletter.com/thedaggetts/letters/now-she-is-official",
+    "snippet": "Thank you, thank you, thank you for all the prayers for our meeting at the embassy! It went very smoothly! We had everything we needed, Adileen cried for just a little part of it :) and they said, \\"Co...",
+    "title": "Now she is official.",
+  },
+  Object {
+    "date": "May 23, 2016",
+    "id": "message-2471241",
+    "link": "http://tinyletter.com/thedaggetts/letters/4-months-as-a-peruvian",
+    "snippet": "Our last update was announcing the arrival of Adileen and somehow time flew by and she is now 4 months old!!! We have absolutely loved being a family of three. Adileen has been just the most precious ...",
+    "title": "4 months as a Peruvian",
+  },
+  Object {
+    "date": "January 26, 2016",
+    "id": "message-2150725",
+    "link": "http://tinyletter.com/thedaggetts/letters/introducing-adileen-kate-daggett",
+    "snippet": "While I think most have you have already seen this on Facebook, we wanted to share our joy with everyone on our Tiny Letter. On Thursday evening, at 18:46, we welcome Adileen to Arequipa :) She weighe...",
+    "title": "Introducing Adileen Kate Daggett",
+  },
+  Object {
+    "date": "November 16, 2015",
+    "id": "message-1987229",
+    "link": "http://tinyletter.com/thedaggetts/letters/a-name",
+    "snippet": "Hope everyone’s doing well! My in-laws visited a couple weeks ago and we were thrilled to get to host them and share Arequipa with them. My father-in-law Kin liked Arequipa so much he decided to cli...",
+    "title": "A Name",
+  },
+]
+`;
+
+exports[`parse the list of messages in cassidoo's archive 1`] = `
+Array [
+  Object {
+    "date": "May 20, 2017",
+    "id": "message-3567745",
+    "link": "http://tinyletter.com/cassidoo/letters/what-matters-most-is-how-well-you-walk-through-the-fire-charles-bukowski",
+    "snippet": "It's time to chow down. On some knowledge. And humor.",
+    "title": "🔥 “What matters most is how well you walk through the fire.” - Charles Bukowski",
+  },
+  Object {
+    "date": "May 14, 2017",
+    "id": "message-3508061",
+    "link": "http://tinyletter.com/cassidoo/letters/of-all-sad-words-of-tongue-or-pen-the-saddest-are-these-it-might-have-been-john-greenleaf-whittier",
+    "snippet": "You made it back, it's so good to see you. Or at least talk at you from my computer screen into the void that is The Internet. Anyway. You look really, really good.",
+    "title": "\\"Of all sad words of tongue or pen, the saddest are these, 'It might have been.'\\" - John Greenleaf Whittier",
+  },
+  Object {
+    "date": "May 07, 2017",
+    "id": "message-3498945",
+    "link": "http://tinyletter.com/cassidoo/letters/it-is-better-to-light-a-candle-than-curse-the-darkness-eleanor-roosevelt",
+    "snippet": "Welcome back. You're looking delightful today. Congrats to all you college grads out there, you did it! And to everyone else: hi. You're doing well too, I see.",
+    "title": "\\"It is better to light a candle than curse the darkness.\\" - Eleanor Roosevelt",
+  },
+  Object {
+    "date": "May 01, 2017",
+    "id": "message-3447177",
+    "link": "http://tinyletter.com/cassidoo/letters/the-best-way-to-escape-from-a-problem-is-to-solve-it-alan-saporta",
+    "snippet": "Hope you had a great week. This is later than my usual letter, apologies for that. I know that this is all you look forward to on Fridays.",
+    "title": "\\"The best way to escape from a problem is to solve it.\\" - Alan Saporta",
+  },
+  Object {
+    "date": "April 21, 2017",
+    "id": "message-3424365",
+    "link": "http://tinyletter.com/cassidoo/letters/don-t-get-so-busy-making-a-living-that-you-forget-to-make-a-life-dolly-parton",
+    "snippet": "Howdy doo friends, welcome back to another week!",
+    "title": "\\"Don't get so busy making a living that you forget to make a life.\\" - Dolly Parton",
+  },
+  Object {
+    "date": "April 15, 2017",
+    "id": "message-3395669",
+    "link": "http://tinyletter.com/cassidoo/letters/sometimes-i-m-so-sweet-even-i-can-t-stand-it-julie-andrews",
+    "snippet": "Wow, we've come so far. April 14. 4/14. A month after Pi Day. Also the 189th anniversary of Webster's Dictionary , fun fact.",
+    "title": "\\"Sometimes I'm so sweet even I can't stand it.\\" - Julie Andrews",
+  },
+  Object {
+    "date": "April 07, 2017",
+    "id": "message-3376081",
+    "link": "http://tinyletter.com/cassidoo/letters/you-can-tell-how-smart-people-are-by-what-they-laugh-at-tina-fey",
+    "snippet": "Welcome back. You made it through another week. Congratulations.",
+    "title": "\\"You can tell how smart people are by what they laugh at.\\" - Tina Fey",
+  },
+  Object {
+    "date": "April 01, 2017",
+    "id": "message-3358389",
+    "link": "http://tinyletter.com/cassidoo/letters/sometimes-i-get-emotional-over-fonts-kanye-west",
+    "snippet": "First of all, before moving on to anything else, I just wanted to give you a quick thanks for signing up for this. You definitely didn't have to.  But I'm hoping that this thanks makes you feel emotio...",
+    "title": "“Sometimes I get emotional over fonts” - Kanye West",
+  },
+]
+`;
